@@ -32,10 +32,7 @@ def generate_customer_document(ain, total_due, penalty, default_year):
     response = model.generate_content(prompt)
     return response.text
 
-# ==========================================
-# 🚀 Simulate extracting 3 rows of real data from the LA County database.
-# Using a mix of minor and severe default cases for testing the pipeline.
-# ==========================================
+
 la_county_database_rows = [
     {"ain": "1111-222-333", "total_due": "45000.00", "penalty": "4500.00", "default_year": "2018"}, # Severe default
     {"ain": "4444-555-666", "total_due": "2100.50", "penalty": "210.05", "default_year": "2023"},  # Minor default
