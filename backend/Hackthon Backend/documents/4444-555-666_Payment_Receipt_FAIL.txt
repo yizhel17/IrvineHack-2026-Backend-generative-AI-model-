@@ -1,0 +1,55 @@
+COUNTY OF ORANGE
+TREASURER-TAX COLLECTOR
+333 W. Santa Ana Blvd., Santa Ana, CA 92701
+(714) 834-3411 | OCGOV.COM/TAX
+
+--------------------------------------------------------------------------------
+
+                PROPERTY TAX PAYMENT RECEIPT (FAILED TRANSACTION)
+
+DATE: October 27, 2023
+RECEIPT NO: FTR2023-987654321
+
+--------------------------------------------------------------------------------
+PROPERTY OWNER INFORMATION:
+NAME: The Chen Family Living Trust
+MAILING ADDRESS: 123 Emerald Bay, Irvine, CA 92618
+
+PROPERTY LOCATION INFORMATION:
+PROPERTY ADDRESS: 123 Emerald Bay, Irvine, CA 92618
+ASSESSOR'S IDENTIFICATION NUMBER (AIN): 4444-555-666
+
+--------------------------------------------------------------------------------
+TRANSACTION DETAILS:
+PAYMENT DATE: October 26, 2023
+PAYMENT METHOD: Electronic Check (eCheck / ACH)
+AMOUNT ATTEMPTED: $10,000.00
+
+PAYMENT STATUS: PAYMENT REJECTED - INSUFFICIENT FUNDS
+
+--------------------------------------------------------------------------------
+CURRENT ACCOUNT STATUS:
+PREVIOUS BALANCE DUE: $12,500.00
+AMOUNT SUCCESSFULLY PAID: $0.00
+CURRENT BALANCE DUE: $12,500.00
+
+--------------------------------------------------------------------------------
+IMPORTANT NOTICE:
+Your recent payment attempt of $10,000.00 on October 26, 2023, for AIN 4444-555-666
+was REJECTED due to INSUFFICIENT FUNDS.
+
+The full outstanding balance of $12,500.00 remains COMPLETELY UNPAID.
+
+Please remit payment for the full outstanding balance immediately to avoid further
+penalties and interest. Payments must be received by the original due date to
+prevent additional charges. A returned check fee may be assessed in accordance
+with California Revenue and Taxation Code.
+
+For questions regarding your tax bill or to make a payment, please visit OCGOV.COM/TAX
+or call (714) 834-3411.
+
+Thank you for your attention to this matter.
+
+County of Orange Treasurer-Tax Collector
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,97 @@
+COUNTY OF ORANGE
+OFFICE OF THE TREASURER-TAX COLLECTOR
+
+                       ANNUAL SECURED PROPERTY TAX BILL
+                       ---------------------------------
+
+TAX YEAR: 2023-2024
+BILL NUMBER: 0000000000001
+BILL ISSUE DATE: September 15, 2023
+----------------------------------------------------------------------------------------------------
+PROPERTY OWNER:
+  Sophia & Daniel Chen
+  1500 Sunflower Avenue
+  Irvine, CA 92603
+
+PROPERTY LOCATION:
+  4567 Sycamore Drive
+  Irvine, CA 92604
+
+ASSESSOR'S PARCEL NUMBER (AIN): 1111-222-333
+LEGAL DESCRIPTION (ABBREVIATED): TR 12345 LOT 678
+TAX RATE AREA (TRA): 11000 - Irvine Unified School District
+----------------------------------------------------------------------------------------------------
+ASSESSED VALUATION:
+  Land:                       $175,000
+  Improvements:               $175,000
+  Fixtures:                   $0
+  TOTAL ASSESSED VALUE:       $350,000
+
+  Homeowners' Exemption:      $0 (No exemption applied to this parcel for this year)
+  NET TAXABLE VALUE:          $350,000
+----------------------------------------------------------------------------------------------------
+TAX CALCULATION DETAIL:
+  Base Tax (1.0000% of $350,000):             $3,500.00
+
+  DIRECT CHARGES / SPECIAL ASSESSMENTS:
+    Irvine Unified School District Bond:      $280.00
+    Orange County Flood Control:              $55.00
+    City of Irvine Landscape & Lighting:      $165.00
+    OC Waste Management Authority:            $30.00
+    Open Space District Surcharge:            $30.00
+    TOTAL DIRECT CHARGES:                     $560.00
+                                              -----------
+  TOTAL TAXES LEVIED FOR 2023-2024:           $4,060.00  (Adjusting total to be around $3,500)
+  Let's re-calculate to make total base around $3000.
+  Base Tax (1.0000% of $300,000):             $3,000.00
+
+  DIRECT CHARGES / SPECIAL ASSESSMENTS:
+    Irvine Unified School District Bond:      $280.00
+    Orange County Flood Control:              $55.00
+    City of Irvine Landscape & Lighting:      $165.00
+    OC Waste Management Authority:            $30.00
+    Open Space District Surcharge:            $30.00
+    TOTAL DIRECT CHARGES:                     $560.00
+                                              -----------
+  TOTAL TAXES LEVIED FOR 2023-2024:           $3,560.00 (This fits the $3,500 target well)
+----------------------------------------------------------------------------------------------------
+PAYMENT INFORMATION:
+
+  FIRST INSTALLMENT DUE DATE:      November 1, 2023
+  FIRST INSTALLMENT AMOUNT:        $1,780.00
+  DELINQUENT AFTER:                December 10, 2023 (by 5:00 PM PST)
+
+  SECOND INSTALLMENT DUE DATE:     February 1, 2024
+  SECOND INSTALLMENT AMOUNT:       $1,780.00
+  DELINQUENT AFTER:                April 10, 2024 (by 5:00 PM PST)
+----------------------------------------------------------------------------------------------------
+SUMMARY OF AMOUNTS DUE:
+
+  TOTAL TAXES DUE THIS BILL:       $3,560.00
+  PENALTIES / INTEREST:            $0.00
+                                   -----------
+  TOTAL AMOUNT DUE:                $3,560.00
+
+  ACCOUNT STATUS: Account is in GOOD STANDING. There are no outstanding penalties or
+                  delinquencies from prior tax years associated with this parcel.
+----------------------------------------------------------------------------------------------------
+IMPORTANT INFORMATION:
+
+  - This bill covers the fiscal period from July 1, 2023, to June 30, 2024.
+  - Failure to receive a tax bill does not relieve the taxpayer of the responsibility for timely
+    payment.
+  - Payments must be received or postmarked by the delinquent dates to avoid penalties.
+  - Make checks payable to: Orange County Tax Collector.
+  - Please include your Assessor's Parcel Number (AIN: 1111-222-333) on all payments.
+  - For payment options, including online payment, mail, or in-person, please visit our website.
+----------------------------------------------------------------------------------------------------
+CONTACT INFORMATION:
+
+  Orange County Treasurer-Tax Collector
+  P.O. Box 45150
+  Anaheim, CA 92803-5150
+
+  Website: www.ocgov.com/tax
+  Phone:   (714) 834-3411
+  Office Hours: Monday - Friday, 8:00 AM - 5:00 PM (excluding holidays)
+----------------------------------------------------------------------------------------------------
